@@ -1,5 +1,5 @@
 # python-exit-point
-Python exit handler (ctrl-c) that allows you to set specific "exit points," removing uncertainty when exiting while/for loops.
+Python exit handler (ctrl-c) that allows you to set specific "exit points," removing uncertainty when exiting loops.
 
 Also provides options for custom cleanup functions, exit messages, and debug information.
 
